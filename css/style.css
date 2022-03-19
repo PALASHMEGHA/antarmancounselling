@@ -261,11 +261,13 @@ header {
 .box-3 {
   background-color: #263238;
   color: #fff;
+  height: 203px;
 }
 
 .box-2 {
   background: linear-gradient(25deg, #d64758, #ee4758 50%);
   color: #fff;
+  height: 203px;
 }
 
 .box-wrapper::after {
@@ -528,13 +530,13 @@ header {
 }
 .content {
   margin-bottom: 20px;
-  height: 270px;
+  height: 350px;
   padding: 10px;
 }
 .content h1 {
   font-weight: 900;
   font-size: 16px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   color: #444;
 }
 .content p {
