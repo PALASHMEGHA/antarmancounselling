@@ -581,3 +581,20 @@ header {
     top: -12%;
   }
 }
+
+@media (max-width: 500px) {
+  html{
+    /* font-size: 8px; */
+    font-size: 50%;
+  }
+
+  .navbar .nav-items, .navbar .logo{
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+
+  
+
+}
