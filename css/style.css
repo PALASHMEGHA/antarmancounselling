@@ -582,10 +582,10 @@ header {
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
   html{
     /* font-size: 8px; */
-    font-size: 25%;
+    font-size: 6px;
   }
 
   .navbar .nav-items, .navbar .logo{
