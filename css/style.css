@@ -585,7 +585,7 @@ header {
 @media (max-width: 500px) {
   html{
     /* font-size: 8px; */
-    font-size: 50%;
+    font-size: 25%;
   }
 
   .navbar .nav-items, .navbar .logo{
@@ -595,6 +595,7 @@ header {
     text-align: center;
   }
 
-  
-
+  .header .navbar .imgs{
+    display: none;
+  }
 }
